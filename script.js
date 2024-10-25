@@ -1,4 +1,4 @@
-let api = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD`;
+let api = ` https://v6.exchangerate-api.com/v6/317c223c36e9bbe996eb04bb/latest/USD`;
 const fromDropDown = document.getElementById("from-currency-select");
 const toDropDown = document.getElementById("to-currency-select");
 
